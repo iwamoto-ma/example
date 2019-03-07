@@ -2,7 +2,7 @@
 
 ### Recommended Env
 - node: `^10.15.1`
-- npm: `6.4.1`
+- npm: `^6.4.1`
 
 ### Installation
 
