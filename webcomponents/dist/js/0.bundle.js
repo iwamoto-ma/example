@@ -87,7 +87,7 @@ function (_HTMLElement) {
   }], [{
     key: "template",
     get: function get() {
-      return "\n      <style>\n        :host img {\n          opacity: 0;\n        }\n      </style>\n\n      <img src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\">\n    ";
+      return "\n      <img src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" style=\"opacity:0\">\n    ";
     }
   }]);
 
