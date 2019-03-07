@@ -7,13 +7,7 @@ export default class UiImgDynamicImport extends HTMLElement {
 
   static get template () {
     return `
-      <style>
-        :host img {
-          opacity: 0;
-        }
-      </style>
-
-      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="opacity: 0">
     `
   }
 
