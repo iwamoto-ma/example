@@ -1,21 +1,21 @@
-# Web Components / Intersection Observer / Code Splitting Example
+## Web Components / Intersection Observer / Code Splitting - Example
 
-## Installation
+### Installation
 
 ```
 $ npm i
 ```
 
-## Usage
+### Usage
 
-### Building bundle with webpack (development mode).
-
-```
-npm run dev
-```
-
-### Building bundle with webpack (production mode).
+#### Building bundle with webpack (development mode).
 
 ```
-npm run build
+$ npm run dev
+```
+
+#### Building bundle with webpack (production mode).
+
+```
+$ npm run build
 ```
