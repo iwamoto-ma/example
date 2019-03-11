@@ -1,6 +1,7 @@
 {
   "name": "webcomponents",
   "version": "1.0.0",
+  "description": "Web Components / Intersection Observer / Code Splitting",
   "scripts": {
     "bs": "browser-sync start -s ./dist -f ./dist/*",
     "dev": "npm run bs & webpack --mode development --watch",
