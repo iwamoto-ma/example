@@ -1,9 +1,8 @@
 'use strict'
 
-import * as fs from "fs";
-
-const puppeteer = require('puppeteer')
-const test = require('ava')
+import fs from 'fs'
+import puppeteer from 'puppeteer'
+import test from 'ava'
 
 test.serial('check form searchResult', async (t) => {
   const browser = await puppeteer.launch()
