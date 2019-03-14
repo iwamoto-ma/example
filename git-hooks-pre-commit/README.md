@@ -1,4 +1,4 @@
-## pre-commit - Lint Test
+## Git hooks pre-commit(husky) - Lint Test
 
 ### Recommended Env
 - node: `^10.15.1`

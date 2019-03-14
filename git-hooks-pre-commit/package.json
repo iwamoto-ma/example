@@ -1,7 +1,7 @@
 {
   "name": "git-hooks-pre-commit",
   "version": "1.0.0",
-  "description": "git-hooks-pre-commit - Lint Test(husky)",
+  "description": "Git hooks pre-commit(husky) - Lint Test",
   "scripts": {
     "test": "eslint ./index.js"
   },
