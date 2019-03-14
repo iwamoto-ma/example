@@ -1,4 +1,4 @@
-## Git hooks pre-commit(husky) - ESLint Test
+## Git hooks pre-commit(husky) - ESLint
 
 ### Recommended Env
 - node: `^10.15.1`
